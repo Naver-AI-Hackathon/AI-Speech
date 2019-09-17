@@ -3,7 +3,7 @@
 
 세번째 네이버 AI해커톤은 AI핵심 기술 중의 하나인 음성인식 미션과 함께합니다. <br>
 
-네이버 AI 해커톤은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://hack.nsml.navercorp.com/intro)</strong>과 함께 합니다.
+네이버 AI 해커톤은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://ai.nsml.navercorp.com/)</strong>과 함께 합니다.
 
 <strong>NSML(Naver Smart Machine Learning)</strong>은 모델을 연구하고 개발하는 데 필요한 복잡한 과정을 대신 처리해주어<br>
 연구 개발자들이 "모델 개발"에만 전념할 수 있고, 다양한 시도를 쉽게 할 수 있는 창의적인 환경을 제공할 것입니다.
@@ -12,7 +12,7 @@
 서로의 경험을 공유하고, 다양하고 창의적인 방법으로 문제를 해결해 보세요!<br>
 
 ## Leaderboard 
-예선 시작과 함께 오픈 예정<br>
+<strong> [예선 1차](https://ai.nsml.navercorp.com/ranking)</strong> <br>
 
 ## 일정
 <table class="tbl_schedule">
